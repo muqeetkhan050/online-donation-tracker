@@ -1,4 +1,5 @@
 
+
 **Assessment 1 (Total Marks **20**)**
 
 Assignment: **Software requirements analysis and design (**Full-Stack CRUD Application Development with DevOps Practices**)**
@@ -92,3 +93,7 @@ We will send you an email to choose a Real-World project. If you face any diffic
 * Adherence to Git best practices and practical contributions.
 * Successful implementation, deploymentand CI/CD pipeline.
 * Problem-solving skills and the ability to go beyond basic requirements.
+=======
+# online-donation-tracker
+This is my project for semester 2, I am solely working on it
+>>>>>>> ed7316f630bb86171b63c368e4e6447a85b536a4
